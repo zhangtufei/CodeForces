@@ -1,0 +1,4 @@
+﻿  2.cpp
+f:\资料\projects\codeforces\cf288-div2\2.cpp(132): warning C4018: “<=”: 有符号/无符号不匹配
+f:\资料\projects\codeforces\cf288-div2\2.cpp(21): warning C4101: “num”: 未引用的局部变量
+  cf288-div2.vcxproj -> F:\资料\Projects\CodeForces\Debug\cf288-div2.exe
